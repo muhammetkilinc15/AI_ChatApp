@@ -2,7 +2,7 @@
 
 ![Semantic-Kernel-Nedir-DeepSeek-R1-Esliginde- NET-Acisindan-Derinlemesine-Degerlendirelim-1-2048x964](https://github.com/user-attachments/assets/14c40891-51c1-474d-a7d6-776b580cae8a)
 
-**Semantic Kernel Nedir?**
+## Semantic Kernel Nedir?
 
 Semantic Kernel, Microsoft tarafından geliştirilen açık kaynaklı bir .NET kütüphanesidir. Amacı, yapay zeka (AI) ve özellikle Büyük Dil Modelleri (LLM) ile geleneksel yazılım iş akışlarını birleştirmeyi kolaylaştırmaktır.
 
