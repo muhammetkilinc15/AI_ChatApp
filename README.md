@@ -1,4 +1,4 @@
-# .NET ile Yapay Zeka Uygulaması
+# Semantic Kernel ile .NET Dünyasında Yapay Zekâ Entegrasyonu
 
 ![Semantic-Kernel-Nedir-DeepSeek-R1-Esliginde- NET-Acisindan-Derinlemesine-Degerlendirelim-1-2048x964](https://github.com/user-attachments/assets/14c40891-51c1-474d-a7d6-776b580cae8a)
 
